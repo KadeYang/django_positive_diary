@@ -1,0 +1,2 @@
+# django_positive_diary
+django_positive_diary
